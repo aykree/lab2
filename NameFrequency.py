@@ -12,6 +12,10 @@ class NameFrequency:
         self.plot_group2 = pd.DataFrame()
         self.result = []
 
+    #
+    #
+    #
+    # agd
     # Load CSV file
     # dropping null value columns to avoid errors
     # making data frame
